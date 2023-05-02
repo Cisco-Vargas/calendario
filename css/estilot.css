@@ -32,66 +32,66 @@
 }
 
 .fila1{
-    background-image: url("./img/reyes.jpg");
+    background-image: url("img/reyes.jpg");
     background-size: cover;
     color: rgb(0, 0, 0);
 }
 
 .fila1 > td:nth-child(2){
-    background-image: url("./img/love.jpg");
+    background-image: url("img/love.jpg");
     background-size: cover;
     color: white;
 }
 .fila1 > td:nth-child(3){
-    background-image: url("./img/madres.jpg");
+    background-image: url("img/madres.jpg");
     background-size: cover;
     color: white;
 }
 .fila1 > td:nth-child(4){
-    background-image: url("./img/abuelos.jpg");
+    background-image: url("img/abuelos.jpg");
     background-size: cover;
     color: white;
 }
 
 .fila2 > td:nth-child(1){
-    background-image: url("./img/juven.jpg");
+    background-image: url("img/juven.jpg");
     background-size: cover;
     color: white;
 }
 
 .fila2 > td:nth-child(2){
-    background-image: url("./img/musica.jpg");
+    background-image: url("img/musica.jpg");
     background-size: cover;
     color: white;
 }
 .fila2 > td:nth-child(3){
-    background-image: url("./img/mujerw.png");
+    background-image: url("img/mujerw.png");
     background-size: cover;
     color: white;
 }
 .fila2 > td:nth-child(4){
-    background-image: url("./img/abril.jpg");
+    background-image: url("img/abril.jpg");
     background-size: cover;
     color: white;
 }
 .fila3 > td:nth-child(1){
-    background-image: url("./img/padre.jpeg");
+    background-image: url("img/padre.jpeg");
     background-size: cover;
     color: white;
 }
 
 .fila3 > td:nth-child(2){
-    background-image: url("./img/orror.jpg");
+    background-image: url("img/orror.jpg");
     background-size: cover;
     color: white;
 }
 .fila3 > td:nth-child(3){
-    background-image: url("./img/muer.jpg");
+    background-image: url("img/muer.jpg");
     background-size: cover;
     color: white;
 }
 .fila3 > td:nth-child(4){
-    background-image: url("./img/navidad.png");
+    background-image: url("img/navidad.png");
     background-size: cover;
     color: white;
 }
